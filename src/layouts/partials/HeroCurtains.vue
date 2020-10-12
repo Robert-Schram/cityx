@@ -10,7 +10,7 @@
         <g-image
           v-if="bg"
           :immediate="true"
-          src="~/assets/img/bg.png"
+          src="~/assets/img/card.jpg"
           data-sampler="planeTexture"
           class="shade-img"
         />
