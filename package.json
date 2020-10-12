@@ -1,5 +1,5 @@
 {
-  "name": "synergyhubs",
+  "name": "synergyhub",
   "private": true,
   "scripts": {
     "build": "gridsome build",
