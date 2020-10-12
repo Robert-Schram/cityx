@@ -1,5 +1,5 @@
 {
-  "name": "hackalong-boilerplate",
+  "name": "synergyhubs",
   "private": true,
   "scripts": {
     "build": "gridsome build",
