@@ -1,10 +1,10 @@
 ---
-title: Opening Equinox UnConference
-date: 2020-09-22
+title: Opening Information
+date: 2022-01-01
 start_time: 1530
 tags: ["community", "self-organization"]
 ---
-An opening discussion on non-duality led by Ale and Julian
+An opening discussion on non-duality
 
 ![Non-duality](../../src/assets/img/Duality.jpg)
 

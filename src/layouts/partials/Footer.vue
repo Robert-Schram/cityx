@@ -10,7 +10,7 @@
       <ul class="flex items-center space-x-8">
         <li>
           <g-link
-            to="https://www.youtube.com/channel/UCD3nTmq-AC1H7T5J7cRwoVA/featured"
+            to="https://www.youtube.com/"
             class="text-white hover:text-gray-400"
           >
             <span class="sr-only">YouTube</span>
@@ -25,7 +25,7 @@
 
         <li>
           <g-link
-            to="https://github.com/hack-along"
+            to="https://github.com/instagaian/synergyhubs"
             target="_blank"
             class="text-white hover:text-gray-400"
           >
@@ -40,7 +40,7 @@
         </li>
 
         <li>
-          <g-link to="https://twitter.com/hackalongio" class="text-white hover:text-gray-400">
+          <g-link to="https://twitter.com/synergyhubs" class="text-white hover:text-gray-400">
             <span class="sr-only">Twitter</span>
             <svg width="20" height="17" fill="currentColor" xmlns="http://www.w3.org/2000/svg">
               <path

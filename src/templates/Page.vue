@@ -43,7 +43,7 @@ query {
 export default {
   metaInfo() {
     return {
-      title: "Equinox",
+      title: "SynergyHubs",
       meta: [
         // twitter-card: https://cards-dev.twitter.com/validator
         { name: "twitter:card", content: "summary_large_image" },
@@ -73,7 +73,7 @@ export default {
     editLink() {
       let path = this.currentPath;
 
-      return `https://github.com/hack-along/EquinoxUnconf/tree/master/content/page${path}.md`;
+      return `https://github.com/instagaian/SynergyHubs/tree/master/content/page${path}.md`;
     },
   },
 };

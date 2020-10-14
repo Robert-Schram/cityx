@@ -9,7 +9,7 @@
           to="/"
           :title="$static.metadata.siteName"
         >
-          Synergy Hubs 22/09/2020
+          Synergyhubs.net
           <!-- <g-image src="../../static/logo.svg" width="50" height="50" alt="logo" fit="outside" /> -->
         </g-link>
       </div>
@@ -36,7 +36,7 @@
         :duration="100"
         bezier-easing-value="0,0,.58,1"
       >
-        <router-link to="/#unconference" class="nav-link scrollactive-item">unconference</router-link>
+        <router-link to="/#equinox" class="nav-link scrollactive-item">introduction</router-link>
         <router-link to="/#teach" class="nav-link scrollactive-item">teach</router-link>
         <router-link to="/#learn" class="nav-link scrollactive-item">learn</router-link>
         <router-link to="/#share" class="nav-link scrollactive-item">share</router-link>

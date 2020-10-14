@@ -1,6 +1,6 @@
 ---
-title: Equinox Unconference
-subtitle: 22nd September 2020
+title: Introduction
+subtitle: Subtitle
 ---
 > #### Equinox
 >
@@ -9,7 +9,7 @@ subtitle: 22nd September 2020
 Fall Equinox summons us. We synchronize at this significant point in time to celebrate our place in life amidst the natural forces which move the outer world as much as the inner. Eternally we search for balance and embrace paradox to leverage the potential of polarity. As light casts a shadow, so order breeds chaos. As the sun abandons us, the night pulls us inward. And, once more, the yin meets the yang.
 
 
-> #### Unconference
+> #### Content
 >
 > a participant-driven gathering to Learn, Teach and Share
 
