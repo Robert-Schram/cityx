@@ -10,3 +10,6 @@ package-lock.json
 .cache
 src/.temp
 dist/
+temp/
+temp/EquinoxUnconf
+temp2/
