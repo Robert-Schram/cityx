@@ -16,7 +16,7 @@ const postcssPlugins = [
 if (process.env.NODE_ENV === 'production') postcssPlugins.push(purgecss(require('./purgecss.config.js')))
 
 module.exports = {
-  siteName: 'SynergyHubs | 22 Sep 2020 ',
+  siteName: 'SynergyHub Global',
   siteDescription: "An open space to teach, learn and share",
   siteUrl: "https://synergyhubs.net/",
   templates: {

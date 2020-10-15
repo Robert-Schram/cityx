@@ -25,7 +25,7 @@
 
         <li>
           <g-link
-            to="https://github.com/instagaian/synergyhubs"
+            to="https://github.com/SynergyHubs/synergyhubglobal"
             target="_blank"
             class="text-white hover:text-gray-400"
           >

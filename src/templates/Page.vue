@@ -73,7 +73,7 @@ export default {
     editLink() {
       let path = this.currentPath;
 
-      return `https://github.com/instagaian/SynergyHubs/tree/master/content/page${path}.md`;
+      return `https://github.com/SynergyHubs/synergyhubglobal/tree/master/content/page${path}.md`;
     },
   },
 };

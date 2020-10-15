@@ -104,7 +104,7 @@ export default {
       let path = this.currentPath;
       if ((path.match(new RegExp("/", "g")) || []).length == 1)
         path = path + "/README";
-      return `https://github.com/instagaian/SynergyHubs/tree/master/content${path}.md`;
+      return `https://github.com/SynergyHubs/synergyhubglobal/tree/master/content${path}.md`;
     },
   },
 };
