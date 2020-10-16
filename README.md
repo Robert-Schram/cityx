@@ -1,10 +1,12 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/05e4a477-68a7-42bf-b14b-4810c41f2bbe/deploy-status)](https://app.netlify.com/sites/eloquent-williams-97965a/deploys)
+Global site status: [![Netlify Status](https://api.netlify.com/api/v1/badges/05e4a477-68a7-42bf-b14b-4810c41f2bbe/deploy-status)](https://app.netlify.com/sites/eloquent-williams-97965a/deploys)
 
-[**live site**](https://synergyhubs.net/)
 
-1. Install Gridsome CLI tool if you don't have it: `npm install --global @gridsome/cli`
-2. Clone the repo: `git@github.com:SynergyHubs/synergyhubglobal.git`
-3. `cd synergyhubsglobal`
+Instructions to create your and develop your own hub:
+1. fork this repository
+2. rename it to your hub name eg mySynergyHub
+3. Install Gridsome CLI tool if you don't have it: `npm install --global @gridsome/cli`
+4. Clone the repo: `git@github.com:SynergyHubs/synergyhubglobal.git`
+5. `cd mySynergyHub`
 4. `npm install`
 5. run `gridsome develop` or `npm run dev` to start a local dev server at `http://localhost:8080`
 6. Happy coding 🎉🙌
