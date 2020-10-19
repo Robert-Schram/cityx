@@ -1,7 +1,7 @@
 Global site status: [![Netlify Status](https://api.netlify.com/api/v1/badges/05e4a477-68a7-42bf-b14b-4810c41f2bbe/deploy-status)](https://app.netlify.com/sites/eloquent-williams-97965a/deploys)
 
 
-Instructions to create your and develop your own hub:
+Instructions to create your own synergy hub:
 1. fork this repository
 2. rename it to your hub name eg mySynergyHub
 3. modify your /src/admin/config.yml file with the repo name eg youraccount_or_yourorganisation/mySynergyHub
