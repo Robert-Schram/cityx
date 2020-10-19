@@ -10,9 +10,9 @@ Instructions to create your and develop your own hub:
 6. You can now change content either via the cms eg https://yoursite/admin or direcly in gihub with automatic deploy
 
 Developer options for local hacking
-3. Install Gridsome CLI tool if you don't have it: `npm install --global @gridsome/cli`
-4. Clone the repo: `git@github.com:youraccount_or_yourorganisation/mySynergyHub.git`
-5. `cd mySynergyHub`
+1. Install Gridsome CLI tool if you don't have it: `npm install --global @gridsome/cli`
+2. Clone the repo: `git@github.com:youraccount_or_yourorganisation/mySynergyHub.git`
+3. `cd mySynergyHub`
 4. `npm install`
 5. run `gridsome develop` or `npm run dev` to start a local dev server at `http://localhost:8080`
 6. Happy coding 🎉🙌
