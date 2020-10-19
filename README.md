@@ -7,7 +7,7 @@ Instructions to create your own synergy hub:
 3. modify your /src/admin/config.yml file with the repo name eg youraccount_or_yourorganisation/mySynergyHub
 4. Go to Netlify and create an account, then link it to your sites github account. [instructions here](https://www.netlify.com/blog/2016/09/29/a-step-by-step-guide-deploying-on-netlify/)
 5. to use the CMS feature (events and pages) you will need to do an oauth intergration by going to the developer section and copying the oauth keys to netlify 
-6. You can now change content either via the cms eg https://yoursite/admin or direcly in gihub with automatic deploy
+6. You can now change content either via the cms eg https://yoursite/admin or directly in github with automatic deploy
 
 Developer options for local hacking
 1. Install Gridsome CLI tool if you don't have it: `npm install --global @gridsome/cli`
