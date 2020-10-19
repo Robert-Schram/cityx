@@ -1,7 +1,7 @@
 backend:
   name: github
   repo: SynergyHubs/synergyhubglobal
-  branch: master
+  branch: main
 
 media_folder: "static/uploads/events"
 public_folder: "/uploads/events"
