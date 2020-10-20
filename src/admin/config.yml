@@ -1,6 +1,7 @@
 backend:
   name: github
-  repo: hack-along/EquinoxUnconf
+  repo: SynergyHubs/synergyhubglobal
+  branch: main
 
 media_folder: "static/uploads/events"
 public_folder: "/uploads/events"
