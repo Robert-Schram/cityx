@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: SynergyHubs/synergyhubglobal
+  repo: Robert-Schram/cityx
   branch: main
 
 media_folder: "static/uploads/events"
