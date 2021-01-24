@@ -2,11 +2,12 @@
 title: Introduction
 subtitle: Subtitle
 ---
-> #### Equinox
+> #### Synergy Hub Network
 >
-> the time the Earth day is in equaly devided between night and day.
+> “We, all of us together, are boldly going where no humans have gone before by facilitating a phase change in human history that is going to elevate humanity to new heights of beauty, truth and goodness.”
 
-Fall Equinox summons us. We synchronize at this significant point in time to celebrate our place in life amidst the natural forces which move the outer world as much as the inner. Eternally we search for balance and embrace paradox to leverage the potential of polarity. As light casts a shadow, so order breeds chaos. As the sun abandons us, the night pulls us inward. And, once more, the yin meets the yang.
+
+A platform to facilitate 100% energy-neutral Synergy Hubs to synergize towards a new paradigm lifestyle and to co-create on developing and testing technological sharing, gifting and awareness tools related to the UN SDGs and HackHumanity's RDGs.
 
 
 > #### Content
