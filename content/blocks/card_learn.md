@@ -22,5 +22,5 @@ Currently we are in the process of developing a regenerative model for a Synergy
 Also we are forming an Alliance with Partners to co-create on the Movement of Movements / Network of Networks.
 
 WorldSummit Movement & HackHumanity are exploring with Partners ways to expand the Synergy Hub Network.  
-https://worldsummmit.global
+https://worldsummit.global
 https://hackhumanity.net
