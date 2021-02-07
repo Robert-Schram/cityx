@@ -19,6 +19,7 @@ https://ecovillage.org/
 https://www.nestcoworking.com.mx/en/
 https://www.greenearthvision.org/full-potential-synergy-hub
 https://chambalabamba.org/
+https://spacegenerators.org/
 
 Currently we are in the process of developing a regenerative model for a Synergy Village which can be scaled up.
 Also we are forming an Alliance with Partners to co-create on the Movement of Movements / Network of Networks.
